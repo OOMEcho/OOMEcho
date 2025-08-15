@@ -31,9 +31,6 @@
 ## 🐍 贪吃蛇贡献图
 
 ![Snake animation](https://github.com/OOMEcho/OOMEcho/blob/output/github-snake.svg#gh-light-mode-only)
-![Snake animation](https://github.com/OOMEcho/OOMEcho/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-
-![Snake animation gif](https://github.com/OOMEcho/OOMEcho/blob/output/github-snake-ocean.gif)
 
 ---
 
