@@ -30,7 +30,7 @@
 
 ## 🐍 贪吃蛇贡献图
 
-![Snake animation](https://github.com/OOMEcho/OOMEcho/blob/output/github-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/OOMEcho/OOMEcho/blob/output/github-snake.svg)
 
 ---
 
