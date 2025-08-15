@@ -20,6 +20,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           include_private: true
+          github_token: ${{ secrets.MY_PAT }}
           outputs: dist/github-snake.svg
 
       # 推送到 output 分支
