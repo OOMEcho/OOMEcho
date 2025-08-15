@@ -34,5 +34,6 @@
 
 ---
 
-## 🌐 联系我
+## 🌐 项目
 - 博客：[https://lxsblogs.cn](https://lxsblogs.cn)
+- 权限管理系统：[https://irms.lxsblogs.cn](https://irms.lxsblogs.cn)
