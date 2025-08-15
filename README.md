@@ -1,5 +1,7 @@
 # 👋 Hi, I'm OOMEcho
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=OOMEcho.OOMEcho)
+
 > 努力学习的开发工程师一枚
 
 ---
