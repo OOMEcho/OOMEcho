@@ -42,10 +42,10 @@
 
 ## 📊 GitHub Statistics
 <p>
-  <img src="https://github-readme-stats-xi-woad-54.vercel.app/api?username=OOMEcho&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-stats-extended-frontend-peach-chi.vercel.app/api?username=OOMEcho&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats-xi-woad-54.vercel.app/api/top-langs/?username=OOMEcho&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-stats-extended-frontend-peach-chi.vercel.app/api/top-langs/?username=OOMEcho&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
